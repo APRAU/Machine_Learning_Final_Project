@@ -110,8 +110,4 @@ To contribute to this project:
 5. Create a Pull Request
 
 ## License
-[Insert License Information]
-
-## Contact
-For questions or collaboration:
-- [Team Member Contact Information]
+MIT
